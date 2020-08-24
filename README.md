@@ -1,5 +1,5 @@
-# Implementation of Grover's algorithm using Quantum Computing Algorithm 
-Major Project (2020) - Implementation of Grover's algorithm using quantum computing algorithm
+# Implementation of Grover's algorithm using Quantum Computing Simulator
+Major Project (2020) - Implementation of Grover's algorithm using quantum computing simulator
 
 ### How to import the code and use it :
 ```sh
